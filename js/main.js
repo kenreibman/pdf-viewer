@@ -1,5 +1,5 @@
 // Set a variable of url. wherever the pdf is
-const url = 'https://github.com/kenreibman/pdf-viewer/blob/master/docs/KEN_REIBMAN_CV.pdf';
+const url = 'docs/KEN_REIBMAN_CV.pdf';
 
 // Global variables that are reassigned
 let pdfDoc = null,
